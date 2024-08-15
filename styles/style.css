@@ -8,8 +8,8 @@ body{
 }
 
 .conteiner{
-    max-width: 1940px;
-    padding:  0 10px;
+    /* max-width: 1940px; */
+    /* padding:  0 10px; */
     margin: 0 auto;
 }
 
@@ -242,7 +242,7 @@ body{
 .section__info-foto{
     display: flex;
     gap: 1rem;
-    margin-top: 15rem;
+    margin-top: 0.5rem;
 }
 
 .info__foto-images{
